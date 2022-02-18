@@ -1,7 +1,7 @@
 # CLTV-Analysis-with-BG-NBD-GG-Model
 
 <p align="center">
-  <img width="600" height="400" src="https://miro.medium.com/max/1400/1*ak-WUdeqaD8bymImhkXucg.png">
+  <img width="800" height="400" src="https://www.statistically.com/wp-content/uploads/2014/10/customer-lifetime-value.jpg">
 </p>
 
 
